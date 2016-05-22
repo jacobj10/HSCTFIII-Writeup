@@ -21,4 +21,8 @@ $(document).ready(function(){
 
         });
 ```
+Using username admin and password supersecure you are redirected to success.php
 
+The output is The flag is super_secure_javascript_login
+
+flag: super_secure_javascript_login
